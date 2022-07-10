@@ -1,0 +1,20 @@
+
+    [ {
+     "id": 1,
+     "name": "Okoń",
+     "amount": "200",
+     "description": "Okoń europejski (Perca fluviatilis) inaczej także nazywany okoniem, okoniem pospolitym lub okoniem zwyczajnym to gatunek ryby drapieżnej zaliczanej do rzędu okoniokształtnych, rodziny okoniowatych. Gatunek o skłonnościach kanibalizmu"
+    },
+    {
+     "id": 2,
+     "name": "Karp",
+     "amount": "100",
+     "description": "Karp (Cyprinus carpio),jako gatunek, powstał na drodze naturalnej poliploidyzacji na przełomie trzeciorzędu i czwartorzędu w okolicach Morza Kaspijskiego i wschodniej Anatolii. Forma dzika (sazan) występowała pierwotnie w Europie południowo-wschodniej i Azji zachodniej w zlewiskach mórz Egejskiego, Czarnego, Kaspijskiego i Aralskiego"
+    },
+    {
+     "id": 3,
+     "name": "Karaś",
+     "amount": "500",
+     "description": "Karaś Pospolity (Carassius carassius) Toleruje bardzo niską zawartość tlenu. Często w takich zbiornikach o wysokiej zawartości dwutlenku węgla i siarkowodoru tworzy formę karłowatą, która ma wysmukłe, wydłużone ciało i w wieku 8–10 lat osiąga zaledwie 9–10 cm długości"
+    }]
+  
